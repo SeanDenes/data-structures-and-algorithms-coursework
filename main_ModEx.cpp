@@ -1,3 +1,5 @@
+//perform modular exponentiation
+
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 #include <fstream>
@@ -5,7 +7,6 @@
 #include <vector>
 #include <cstdlib>
 using namespace std;
-
 vector <int> Binary(int k);
 int ModularExpo(int a, vector <int> K, int n);
 
