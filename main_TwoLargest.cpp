@@ -1,3 +1,5 @@
+//create a list and find the two largest numbers in the list 
+
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 #include <fstream>
