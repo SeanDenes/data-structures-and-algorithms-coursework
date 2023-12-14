@@ -6,6 +6,7 @@
 #include <cstdlib>
 using namespace std;
 
+//find the gcd of 2 integers 
 vector <int> ExEuclidian(int a, int b);
 
 int main()
