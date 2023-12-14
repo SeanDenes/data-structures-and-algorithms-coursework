@@ -1,3 +1,5 @@
+//create a list and sort it using selection sort 
+
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 #include <fstream>
@@ -10,7 +12,7 @@ void selectionSort (int a[], int n);
 
 int main(){
     int n = 0 ;
-    cout<<"Enter lenght of list"<<endl;
+    cout<<"Enter length of list"<<endl;
     cin>>n ;
     int a[n];
     cout<<"Enter each element of unsorted list one at a time:"<<endl;
