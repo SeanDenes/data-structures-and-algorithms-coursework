@@ -1,3 +1,5 @@
+//find the gcd of 2 integers 
+
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 #include <fstream>
@@ -5,8 +7,6 @@
 #include <vector>
 #include <cstdlib>
 using namespace std;
-
-//find the gcd of 2 integers 
 vector <int> ExEuclidian(int a, int b);
 
 int main()
